@@ -1,0 +1,176 @@
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls
+'3D Objects'/          'Menu Démarrer'@                                                                                Recent@                    knime-workspace/
+'API Airtable.ipynb'   'Mes documents'@                                                                               'Saved Games'/              my_streamlit_app.py
+ AppData/               Microsoft/                                                                                     Searches/                  ntuser.dat.LOG1
+'Application Data'@     MicrosoftEdgeBackups/                                                                          SendTo@                    ntuser.dat.LOG2
+ Conflans/              Modèles@                                                                                       Streamlit.ipynb            ntuser.ini
+'Connexion sql.ipynb'   Music/                                                                                         Streamlit2.py              polar/
+ Contacts/              NTUSER.DAT                                                                                     Untitled.ipynb             python-getting-started/
+ Cookies@               NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TM.blf                                        Videos/                    source/
+ Documents/             NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TMContainer00000000000000000001.regtrans-ms  'VirtualBox VMs'/           test_flask.py
+ Downloads/             NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TMContainer00000000000000000002.regtrans-ms  "Voisinage d'impression"@   test_flask2.py
+ Favorites/             OneDrive/                                                                                     'Voisinage réseau'@         wild-git/
+'Google Drive'/         Plotly.ipynb                                                                                   _netrc
+ Links/                 PycharmProjects/                                                                               anaconda3/
+'Local Settings'@       Python/                                                                                        couleur.py
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls .
+'3D Objects'/          'Menu Démarrer'@                                                                                Recent@                    knime-workspace/
+'API Airtable.ipynb'   'Mes documents'@                                                                               'Saved Games'/              my_streamlit_app.py
+ AppData/               Microsoft/                                                                                     Searches/                  ntuser.dat.LOG1
+'Application Data'@     MicrosoftEdgeBackups/                                                                          SendTo@                    ntuser.dat.LOG2
+ Conflans/              Modèles@                                                                                       Streamlit.ipynb            ntuser.ini
+'Connexion sql.ipynb'   Music/                                                                                         Streamlit2.py              polar/
+ Contacts/              NTUSER.DAT                                                                                     Untitled.ipynb             python-getting-started/
+ Cookies@               NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TM.blf                                        Videos/                    source/
+ Documents/             NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TMContainer00000000000000000001.regtrans-ms  'VirtualBox VMs'/           test_flask.py
+ Downloads/             NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TMContainer00000000000000000002.regtrans-ms  "Voisinage d'impression"@   test_flask2.py
+ Favorites/             OneDrive/                                                                                     'Voisinage réseau'@         wild-git/
+'Google Drive'/         Plotly.ipynb                                                                                   _netrc
+ Links/                 PycharmProjects/                                                                               anaconda3/
+'Local Settings'@       Python/                                                                                        couleur.py
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls -a
+ ./                    .spyder-py3/          'Menu Démarrer'@                                                                                Untitled.ipynb
+ ../                   .ssh/                 'Mes documents'@                                                                                Videos/
+ .3T/                  .streamlit/            Microsoft/                                                                                    'VirtualBox VMs'/
+ .VirtualBox/          .swt/                  MicrosoftEdgeBackups/                                                                         "Voisinage d'impression"@
+ .anaconda/            .tuxguitar-1.5.4/      Modèles@                                                                                      'Voisinage réseau'@
+ .astropy/             .vscode/               Music/                                                                                         _netrc
+ .bash_history        '3D Objects'/           NTUSER.DAT                                                                                     anaconda3/
+ .cache/              'API Airtable.ipynb'    NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TM.blf                                        couleur.py
+ .conda/               AppData/               NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TMContainer00000000000000000001.regtrans-ms   knime-workspace/
+ .condarc             'Application Data'@     NTUSER.DAT{a525cc93-81a3-11eb-91b9-b35f99dc014f}.TMContainer00000000000000000002.regtrans-ms   my_streamlit_app.py
+ .continuum/           Conflans/              OneDrive/                                                                                      ntuser.dat.LOG1
+ .gitconfig           'Connexion sql.ipynb'   Plotly.ipynb                                                                                   ntuser.dat.LOG2
+ .idlerc/              Contacts/              PycharmProjects/                                                                               ntuser.ini
+ .ipynb_checkpoints/   Cookies@               Python/                                                                                        polar/
+ .ipython/             Documents/             Recent@                                                                                        python-getting-started/
+ .jupyter/             Downloads/            'Saved Games'/                                                                                  source/
+ .lesshst              Favorites/             Searches/                                                                                      test_flask.py
+ .matplotlib/         'Google Drive'/         SendTo@                                                                                        test_flask2.py
+ .mito/                Links/                 Streamlit.ipynb                                                                                wild-git/
+ .python_history      'Local Settings'@       Streamlit2.py
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls Images
+ls: cannot access 'Images': No such file or directory
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls /Images
+ls: cannot access '/Images': No such file or directory
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls /users/clefe
+ls: cannot access '/users/clefe': No such file or directory
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls /Users
+ls: cannot access '/Users': No such file or directory
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls..
+bash: ls..: command not found
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls ..
+'All Users'@   Default/  'Default User'@   Public/   clefe/   desktop.ini
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls user
+ls: cannot access 'user': No such file or directory
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ls /bin
+'[.exe'*                      dirname.exe*                gpgconf.exe*        msgfmt.exe*                     msys-sqlite3-0.dll*           readlink.exe*          touch.exe*
+ addgnupghome*                docx2txt*                   gpgparsemail.exe*   msggrep.exe*                    msys-ssl-1.1.dll*             realpath.exe*          tput.exe*
+ applygnupgdefaults*          docx2txt.pl*                gpgscm.exe*         msginit.exe*                    msys-svn_client-1-0.dll*      rebase.exe*            tr.exe*
+ arch.exe*                    dos2unix.exe*               gpgsm.exe*          msgmerge.exe*                   msys-svn_delta-1-0.dll*       rebaseall*             true.exe*
+ astextplain*                 du.exe*                     gpgsplit.exe*       msgunfmt.exe*                   msys-svn_diff-1-0.dll*        recode-sr-latin.exe*   truncate.exe*
+ autopoint*                   dumpsexp.exe*               gpgtar.exe*         msguniq.exe*                    msys-svn_fs-1-0.dll*          regtool.exe*           trust.exe*
+ awk.exe*                     echo.exe*                   gpgv.exe*           msys-2.0.dll*                   msys-svn_fs_fs-1-0.dll*       reset.exe*             tset.exe*
+ b2sum.exe*                   egrep*                      grep.exe*           msys-apr-1-0.dll*               msys-svn_fs_util-1-0.dll*     restore*               tsort.exe*
+ backup*                      env.exe*                    groups.exe*         msys-aprutil-1-0.dll*           msys-svn_fs_x-1-0.dll*        rm.exe*                tty.exe*
+ base32.exe*                  envsubst.exe*               gsettings.exe*      msys-asn1-8.dll*                msys-svn_ra-1-0.dll*          rmdir.exe*             tzset.exe*
+ base64.exe*                  ex.exe*                     gunzip*             msys-assuan-0.dll*              msys-svn_ra_local-1-0.dll*    rnano.exe*             u2d.exe*
+ basename.exe*                expand.exe*                 gzexe*              msys-bz2-1.dll*                 msys-svn_ra_serf-1-0.dll*     runcon.exe*            umount.exe*
+ basenc.exe*                  expr.exe*                   gzip.exe*           msys-cbor-0.8.dll*              msys-svn_ra_svn-1-0.dll*      rview.exe*             uname.exe*
+ bash.exe*                    factor.exe*                 head.exe*           msys-com_err-1.dll*             msys-svn_repos-1-0.dll*       rvim.exe*              uncompress*
+ bashbug*                     false.exe*                  hmac256.exe*        msys-crypt-0.dll*               msys-svn_subr-1-0.dll*        scp.exe*               unexpand.exe*
+ bunzip2.exe*                 fgrep*                      hostid.exe*         msys-crypto-1.1.dll*            msys-svn_swig_perl-1-0.dll*   sdiff.exe*             uniq.exe*
+ bzcat.exe*                   fido2-assert.exe*           hostname.exe*       msys-edit-0.dll*                msys-svn_wc-1-0.dll*          sed.exe*               unix2dos.exe*
+ bzcmp*                       fido2-cred.exe*             iconv.exe*          msys-expat-1.dll*               msys-tasn1-6.dll*             seq.exe*               unix2mac.exe*
+ bzdiff*                      fido2-token.exe*            id.exe*             msys-ffi-7.dll*                 msys-ticw6.dll*               setfacl.exe*           unlink.exe*
+ bzegrep*                     file.exe*                   infocmp.exe*        msys-fido2-1.dll*               msys-unistring-2.dll*         setmetamode.exe*       unzip.exe*
+ bzfgrep*                     find.exe*                   infotocap.exe*      msys-gcc_s-seh-1.dll*           msys-uuid-1.dll*              sexp-conv.exe*         unzipsfx.exe*
+ bzgrep*                      findssl.sh*                 install.exe*        msys-gcrypt-20.dll*             msys-wind-0.dll*              sftp.exe*              update-ca-trust*
+ bzip2.exe*                   fmt.exe*                    join.exe*           msys-gettextlib-0-19-8-1.dll*   msys-z.dll*                   sh.exe*                updatedb*
+ bzip2recover.exe*            fold.exe*                   kbxutil.exe*        msys-gettextsrc-0-19-8-1.dll*   mv.exe*                       sha1sum.exe*           users.exe*
+ bzless*                      funzip.exe*                 kill.exe*           msys-gio-2.0-0.dll*             nano.exe*                     sha224sum.exe*         vdir.exe*
+ bzmore*                      gapplication.exe*           ldd.exe*            msys-glib-2.0-0.dll*            nettle-hash.exe*              sha256sum.exe*         vendor_perl/
+ c_rehash*                    gawk-5.0.0.exe*             ldh.exe*            msys-gmodule-2.0-0.dll*         nettle-lfib-stream.exe*       sha384sum.exe*         vi*
+ captoinfo.exe*               gawk.exe*                   less.exe*           msys-gmp-10.dll*                nettle-pbkdf2.exe*            sha512sum.exe*         view.exe*
+ cat.exe*                     gdbus.exe*                  lessecho.exe*       msys-gnutls-30.dll*             ngettext.exe*                 shred.exe*             vim.exe*
+ chattr.exe*                  gencat.exe*                 lesskey.exe*        msys-gobject-2.0-0.dll*         nice.exe*                     shuf.exe*              vimdiff.exe*
+ chcon.exe*                   getconf.exe*                link.exe*           msys-gpg-error-0.dll*           nl.exe*                       sleep.exe*             vimtutor*
+ chgrp.exe*                   getemojis*                  ln.exe*             msys-gssapi-3.dll*              nohup.exe*                    sort.exe*              watchgnupg.exe*
+ chmod.exe*                   getfacl.exe*                locale.exe*         msys-hcrypto-4.dll*             notepad*                      split.exe*             wc.exe*
+ chown.exe*                   getopt.exe*                 locate.exe*         msys-heimbase-1.dll*            nproc.exe*                    ssh-add.exe*           which.exe*
+ chroot.exe*                  gettext.exe*                logname.exe*        msys-heimntlm-0.dll*            numfmt.exe*                   ssh-agent.exe*         who.exe*
+ cksum.exe*                   gettext.sh*                 ls.exe*             msys-hogweed-6.dll*             od.exe*                       ssh-copy-id*           whoami.exe*
+ clear.exe*                   gettextize*                 lsattr.exe*         msys-hx509-5.dll*               openssl.exe*                  ssh-keygen.exe*        winpty-agent.exe*
+ cmp.exe*                     gio-querymodules.exe*       mac2unix.exe*       msys-iconv-2.dll*               p11-kit.exe*                  ssh-keyscan.exe*       winpty-debugserver.exe*
+ column.exe*                  git-flow*                   md5sum.exe*         msys-idn2-0.dll*                passwd.exe*                   ssh-pageant.exe*       winpty.dll*
+ comm.exe*                    git-flow-bugfix             minidumper.exe*     msys-intl-8.dll*                paste.exe*                    ssh.exe*               winpty.exe*
+ core_perl/                   git-flow-config             mintheme*           msys-kafs-0.dll*                patch.exe*                    sshd.exe*              wordpad*
+ cp.exe*                      git-flow-feature            mintty.exe*         msys-krb5-26.dll*               pathchk.exe*                  ssp.exe*               xargs.exe*
+ csplit.exe*                  git-flow-hotfix             mkdir.exe*          msys-ksba-8.dll*                perl.exe*                     start*                 xgettext.exe*
+ cut.exe*                     git-flow-init               mkfifo.exe*         msys-lz4-1.dll*                 perl5.34.0.exe*               stat.exe*              xxd.exe*
+ cygcheck.exe*                git-flow-log                mkgroup.exe*        msys-magic-1.dll*               pinentry-w32.exe*             strace.exe*            yat2m.exe*
+ cygpath.exe*                 git-flow-release            mknod.exe*          msys-mpfr-6.dll*                pinentry.exe*                 stty.exe*              yes.exe*
+ cygwin-console-helper.exe*   git-flow-support            mkpasswd.exe*       msys-ncursesw6.dll*             pinky.exe*                    sum.exe*               zcat*
+ d2u.exe*                     git-flow-version            mktemp.exe*         msys-nettle-8.dll*              pkcs1-conv.exe*               sync.exe*              zcmp*
+ dash.exe*                    gitflow-common              mount.exe*          msys-npth-0.dll*                pldd.exe*                     tabs.exe*              zdiff*
+ date.exe*                    gitflow-shFlags             mpicalc.exe*        msys-p11-kit-0.dll*             pluginviewer.exe*             tac.exe*               zegrep*
+ dd.exe*                      gkill.exe*                  msgattrib.exe*      msys-pcre-1.dll*                pr.exe*                       tail.exe*              zfgrep*
+ df.exe*                      glib-compile-schemas.exe*   msgcat.exe*         msys-perl5_34.dll*              printenv.exe*                 tar.exe*               zforce*
+ diff.exe*                    gobject-query.exe*          msgcmp.exe*         msys-psl-5.dll*                 printf.exe*                   tee.exe*               zgrep*
+ diff3.exe*                   gpg-agent.exe*              msgcomm.exe*        msys-readline8.dll*             ps.exe*                       test.exe*              zipgrep*
+ dir.exe*                     gpg-connect-agent.exe*      msgconv.exe*        msys-roken-18.dll*              psl-make-dafsa*               tic.exe*               zipinfo.exe*
+ dircolors.exe*               gpg-error.exe*              msgen.exe*          msys-sasl2-3.dll*               psl.exe*                      tig.exe*               zless*
+ dirmngr-client.exe*          gpg-wks-server.exe*         msgexec.exe*        msys-serf-1-0.dll*              ptx.exe*                      timeout.exe*           zmore*
+ dirmngr.exe*                 gpg.exe*                    msgfilter.exe*      msys-smartcols-1.dll*           pwd.exe*                      toe.exe*               znew*
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ cd Images
+bash: cd: Images: No such file or directory
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ cd..
+bash: cd..: command not found
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ cd ..
+
+clefe@LAPTOP-QP48G5OS MINGW64 /c/Users
+$ cd
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ cd
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ ~cd ~/Musique
+bash: ~cd: command not found
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~
+$ cd ~/Music
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~/Music
+$ pwd
+/c/Users/clefe/Music
+
+clefe@LAPTOP-QP48G5OS MINGW64 ~/Music
+$
